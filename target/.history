@@ -1,0 +1,11 @@
+~run
+build
+compile
+run
+:q
+quit
+:q
+:quit
+:q;
+~run
+exit

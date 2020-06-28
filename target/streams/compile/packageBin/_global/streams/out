@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/alex/Documents/EMRtest/target/scala-2.13/emrtest_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EMRtest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/alex/Documents/EMRtest/target/scala-2.13/classes/EMRtest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EMRtest/EMRtest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/alex/Documents/EMRtest/target/scala-2.13/classes/EMRtest/EMRtest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EMRtest/EMRtest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/alex/Documents/EMRtest/target/scala-2.13/classes/EMRtest/EMRtest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EMRtest/EMRtest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/alex/Documents/EMRtest/target/scala-2.13/classes/EMRtest/EMRtest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
